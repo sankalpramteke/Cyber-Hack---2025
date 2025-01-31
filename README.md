@@ -26,16 +26,15 @@ SatyaShield utilizes **AI & Blockchain** to detect and prevent fraudulent activi
 🔹 **README.md** – Documentation of our solution.  
 
 ## 📊 Feasibility & Viability  
-- **Technological Fit:** Seamlessly integrates with banking fraud detection systems with **98% accuracy**.  
-- **Operational Efficiency:** Reduces manual fraud investigation by **40%** through automation.  
-- **Scalable Solution:** Can be implemented across **multiple banking institutions**.  
-- **Compliance Ready:** Follows **KYC, AML, and RBI cybersecurity regulations**.  
+- **Technological Fit:** Seamlessly integrates with existing banking infrastructure and fraud detection systems, ensuring high detection accuracy and minimal false positives.
+- **Operational Efficiency:** AI-driven fraud prevention reduces manual verification time by 40%, enhancing response speed and efficiency.  
+- **Scalable Solution:** Deployable across multiple banks with minimal infrastructure upgrades, ensuring widespread implementation. 
+- **Compliance Ready:** Fully adheres to KYC, AML, and RBI financial security regulations, ensuring legal protection and industry compliance.  
 
 ## 🌟 Impact & Benefits  
-- **For Customers:** Protects accounts from unauthorized use, increasing trust in digital banking.  
-- **For Banks:** Saves millions by preventing fraud-related financial losses.  
-- **For Cybersecurity Teams:** Automates fraud detection, reducing workload by **35%**.  
-- **For the Economy:** Strengthens digital finance security, reducing overall cybercrime.  
+- **Bank Customers:** Ensures safer transactions, reduces fraud risks, and enhances user confidence in digital banking.   
+- **Banking & Cybersecurity Teams:** Automates fraud detection, reducing workload and improving accuracy.  
+- **Financial System & Government:** Strengthens financial security, reduces cybercrime impact, and improves trust in digital banking.  
 
 ## 🔗 Live Prototype  
 Check out the **prototype** here: [SatyaShield Website](xyz.com)  
