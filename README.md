@@ -1,7 +1,7 @@
-# 🔒 SatyaShield – AI-Powered Fraud Prevention System
+# 🔒 SatyaShield – Intelligent Fraud detection & Prevention System
 
 ## 🚀 Overview  
-**SatyaShield** is a cutting-edge **AI-driven fraud prevention system** designed to help **banks detect and prevent rented account scams**. By leveraging **real-time AI detection, behavioral biometrics, and blockchain tracking**, SatyaShield ensures secure and fraud-free transactions.  
+**SatyaShield** is a cutting-edge **Intelligent Fraud detection & prevention system** designed to help **banks detect and prevent rented account scams**. By leveraging **real-time AI detection, behavioral biometrics, and blockchain tracking**, SatyaShield ensures secure and fraud-free transactions.  
 
 ## 🎯 Problem Statement  
 In today's digital banking world, **cybercriminals rent savings and current accounts** from individuals and use them for large-scale **financial frauds**. These accounts act as **money-laundering channels**, making it difficult to trace illegal transactions. Our solution, **SatyaShield**, aims to **eliminate these fraudulent accounts before fraud occurs**.  
