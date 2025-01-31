@@ -37,7 +37,7 @@ SatyaShield utilizes **AI & Blockchain** to detect and prevent fraudulent activi
 - **Financial System & Government:** Strengthens financial security, reduces cybercrime impact, and improves trust in digital banking.  
 
 ## 🔗 Live Prototype  
-Check out the **prototype** here: [SatyaShield Website](xyz.com)  
+Check out the **prototype** here: [SatyaShield Website](https://test-jays-projects-2b451912.vercel.app/)  
 
 ## 🏆 Developed By  
 Team **Caffeine & Code** at **Cyber Hack 2025**  
